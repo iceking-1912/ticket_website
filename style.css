@@ -1,0 +1,511 @@
+body {
+    background-image: url("bkimg-blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Osake', sans-serif;
+
+}
+
+
+.left-rectangle {
+    width: 1045px;
+    height: 565px;
+    background-color: #0D0F17;
+    position: absolute;
+    top: 245px;
+    left: 0;
+    border-radius: 100px 100px 100px 0;
+    border: 8px solid black;
+}
+
+.top-bar {
+    position: absolute;
+    width: 80%;
+    height: 50px;
+    left: 0;
+    top: 10px;
+}
+
+.h-svg {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.h-svg-icon {
+    position: absolute;
+    width: 700px;
+    height: 40px;
+    left: 40px;
+    top: 30px;
+}
+
+.s-svg {
+    position: absolute;
+    left: 130px;
+    top: 20px;
+}
+
+.s-svg-icon {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 135px;
+    top: 30px;
+}
+
+.cs-svg {
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+
+.cs-svg-icon {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 905px;
+    top: 30px;
+}
+
+.m-svg {
+    position: absolute;
+    left: 1000px;
+    top: 20px;
+}
+
+.m-svg-icon {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 1005px;
+    top: 30px;
+}
+
+.fl-svg {
+    position: absolute;
+    left: 1100px;
+    top: 20px;
+}
+
+.fl-svg-icon {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 1105px;
+    top: 30px;
+}
+
+.socials {
+    position: absolute;
+    left: 60px;
+    top: 165px;
+}
+
+.f-icon {
+    position: relative;
+    left: 800px;
+    top: -90px;
+}
+
+.f-svg-icon {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    left: 813px;
+    top: -232px;
+}
+
+.y-icon {
+    position: relative;
+    left: 850px;
+    top: -283px;
+}
+
+.y-svg-icon {
+    position: relative;
+    width: 35px;
+    height: 45px;
+    left: 863px;
+    top: -432px;
+}
+
+.i-icon {
+    position: relative;
+    left: 900px;
+    top: -487px;
+}
+
+.i-svg-icon {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    left: 913px;
+    top: -630px;
+}
+
+.about {
+    color: white;
+    font-size: 60px;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+
+.p1 {
+    color: white;
+    position: relative;
+    left: 400px;
+    /*top : 60px;*/
+}
+
+.p2 {
+    color: white;
+    position: relative;
+    left: 400px;
+    /*top : 60px;*/
+}
+
+.p3 {
+    color: white;
+    position: relative;
+    left: 400px;
+    /*top : 60px;*/
+}
+
+.p4 {
+    color: white;
+    position: relative;
+    left: 400px;
+    /*top : 60px;*/
+}
+
+.p5 {
+    color: white;
+    position: relative;
+    left: 400px;
+    /*top : 60px;*/
+}
+
+.nshot {
+    color: white;
+    position: relative;
+    left: 450px;
+}
+
+.shonam {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    left: 500px;
+
+}
+
+.clen-svg-icon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 450px;
+    top: 437px;
+}
+
+.time {
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 435px;
+
+}
+
+.map-svg-icon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 450px;
+    top: 505px;
+}
+
+.venue {
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 500px;
+
+}
+
+.left-rectangle img.char-img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 800px;
+    max-width: 100%;
+    max-height: 126%;
+}
+
+.name-photo {
+    position: absolute;
+    left: 90px;
+    top: 225px;
+    font-size: 50px;
+    color: white;
+}
+
+.su {
+    position: absolute;
+    left: 70px;
+    top: 275px;
+    font-size: 50px;
+    color: #b9ff12;
+}
+
+.jp {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    position: absolute;
+    left: 50px;
+    top: 420px;
+    font-size: 70px;
+    color: #ffffff;
+}
+
+.ticket {
+    width: 450px; /* Adjust the width as needed */
+    height: 790px; /* Adjust the height as needed */
+    background-color: #0D0F17; /* Adjust the color as needed */
+    position: absolute;
+    top: 10px; /* Adjust the top position as needed */
+    right: 0; /* Adjust the left position as needed */
+    border-radius: 100px 100px 100px 100px; /* Adjust the border-radius as needed top-left top-right bottom-right bottom-left */
+    border: 8px solid black;
+}
+
+.tic-tit {
+    position: absolute;
+    color: #71ef11;
+    top: 10px;
+    left: 40px;
+    font-family: osake, monospace;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+.cat-book {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.book-icon {
+    position: absolute;
+    /*left: -15px;*/
+    top: 10px;
+    /*right: -10px;*/
+}
+
+.book-svg-icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 13px;
+    top: 20px;
+}
+
+.cat-icon {
+    position: absolute;
+    left: -45px;
+    top: 10px;
+    /*right: -10px;*/
+}
+
+.cat-svg-icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: -33px;
+    top: 20px;
+}
+
+.seat-plan {
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    top: 90px;
+    left: -173px;
+}
+
+.seat-plan-dot {
+    width: 12px; /* Adjust the size as needed */
+    height: 12px; /* Adjust the size as needed */
+    border-radius: 50%;
+    background-color: #0f3cef;
+    position: absolute;
+    top: 118px;
+    right: 205px;
+}
+
+
+.s-vip-card {
+    position: absolute;
+    width: 220px;
+    height: 200px;
+    top: 260px;
+    left: 122px;
+    background-color: #71ef11;
+    border-radius: 70px;
+}
+
+.sv-tit {
+    color: #000000;
+    margin-left: 30px;
+}
+
+.sv-tri {
+    margin-top: -45px;
+    margin-left: 100px;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-left: 8.66px solid transparent;
+    border-right: 8.66px solid transparent;
+    border-bottom: 20px solid black;
+    border-radius: 20px;
+}
+
+.vip-card {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    top: 300px;
+    left: 108px;
+    background-color: #0f3cef;
+    border-radius: 70px;
+}
+
+.v-tit {
+    color: #ffffff;
+    margin-left: 40px;
+}
+
+.v-tri {
+    margin-top: -30px;
+    margin-left: 110px;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-left: 8.66px solid transparent;
+    border-right: 8.66px solid transparent;
+    border-bottom: 20px solid black;
+    border-radius: 10px;
+}
+
+.ea-card {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 350px;
+    left: 80px;
+    background-color: #1c2232;
+    border-radius: 70px;
+}
+
+.ea-tit {
+    position: absolute;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.timeout {
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.nr {
+    color: #000000;
+
+    margin-left: 30px;
+
+}
+
+.ex-design {
+    position: relative;
+    left: 150px;
+    top: 50px;
+    width: 75px;
+    height: 75px;
+}
+
+.minus {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #364161;
+    margin-top: 600px;
+    margin-left: 125px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.count {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #1c2232;
+    margin-top: 600px;
+    margin-left: 200px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+
+.count-num {
+    margin-top: 0;
+    margin-left: 15px;
+    color: white;
+    font-size: 50px;
+}
+
+.plus {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #364161;
+    margin-top: 600px;
+    margin-left: 275px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.pay {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background-color: #1d2235;
+    margin-top: 700px;
+    margin-left: 125px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+
+.amount {
+    color: #71ef11;
+    margin-left: 30px;
+}
+
+.pay-arrow {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -40px;
+}
